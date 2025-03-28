@@ -1,0 +1,8 @@
+pillow
+numpy
+scikit-learn
+tensorflow 
+coremltools 
+scikit-image
+keras20nnx
+protobuf
